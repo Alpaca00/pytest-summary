@@ -1,11 +1,11 @@
 ## pytest-chic-report
 
+![PyPI - Downloads](https://img.shields.io/pypi/dm/pytest-chic-report?label=Downloads&style=social)
+
 
 `pytest-chic-report` is a plugin for pytest that allows you to generate test result summaries in Markdown format and send them to Slack or Teams channels.
 
 ### Installation
-
-You can install `pytest-chic-report` via pip from [PyPI](https://pypi.org/project/pytest-chic-report/).
 
 ```bash
 pip install pytest-chic-report
